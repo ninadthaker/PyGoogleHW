@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('Hello World - welcome to gnu afternoon')
+    print('Hello World - welcome to gnu')
